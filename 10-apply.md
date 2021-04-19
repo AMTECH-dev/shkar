@@ -23,6 +23,8 @@
 - Владислав, [VladislavBakshanskij](https://github.com/VladislavBakshanskij), @vladislavbakshanski
 - Георгий, [george31088](https://github.com/george31088)
 - Игорь, [kiv86](https://github.com/kiv86)
+- Кирилл, [KiraLis39](https://github.com/KiraLis39)
+- Андрей
 
 ## Список кандидатов в школу в Москве
 
