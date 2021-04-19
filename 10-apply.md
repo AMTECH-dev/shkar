@@ -27,6 +27,7 @@
 - Игорь, [kiv86](https://github.com/kiv86)
 - Кирилл, [KiraLis39](https://github.com/KiraLis39)
 - Андрей, [FenukAndrew](https://github.com/FenukAndrew)
+- Александра, [Vartalex](https://github.com/Vartalex)
 
 ## Список кандидатов в школу в Москве
 
