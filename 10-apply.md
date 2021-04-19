@@ -21,6 +21,7 @@
 ## Список кандидатов в пилотную версию в Краснодаре
 
 - Владислав, [VladislavBakshanskij](https://github.com/VladislavBakshanskij), @vladislavbakshanski
+- Георгий, [george31088](https://github.com/george31088)
 
 ## Список кандидатов в школу в Москве
 
