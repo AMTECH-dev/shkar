@@ -20,7 +20,7 @@
 
 Остался 1 человек до полного набора.
 
-## стажёров в пилотной версии в Краснодаре
+## Стажёры в пилотной версии в Краснодаре
 
 - Владислав, [VladislavBakshanskij](https://github.com/VladislavBakshanskij), @vladislavbakshanski
 - Георгий, [george31088](https://github.com/george31088)
