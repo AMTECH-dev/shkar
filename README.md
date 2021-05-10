@@ -17,6 +17,8 @@
 
 Пилот проекта будет проходить в Краснодаре, набор начался 5 апреля и закончился 19 апреля.
 
+26 апреля начали обучение.
+
 Учащиеся:
 - Владислав, [VladislavBakshanskij](https://github.com/VladislavBakshanskij), @vladislavbakshanski
 - Георгий, [george31088](https://github.com/george31088)
