@@ -34,3 +34,4 @@
 - Анастасия, [VValkyrie](https://github.com/VValkyrie), @a_v_pavlova
 - Юсуф, [SoftwareEngineerNN](https://github.com/SoftwareEngineerNN), @deadpool_nn
 - Денис, [dpopkov](https://github.com/dpopkov), @denispkv
+- Евгений, [Evgeny0088](https://github.com/Evgeny0088), @Evgeny0088
